@@ -1,0 +1,25 @@
+{
+  "name": "testenodeangular1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoaquino/testeNodeAngular.git"
+  },
+  "author": "Bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoaquino/testeNodeAngular/issues"
+  },
+  "homepage": "https://github.com/brunoaquino/testeNodeAngular#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
